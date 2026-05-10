@@ -9,7 +9,7 @@ Built with **Python**, **Streamlit**, **OpenCV**, **MediaPipe**, **SQLite**, and
 
 ## 🚀 Live Demo
 
-Deploy this project on Streamlit Cloud and add your app link here.
+https://gymbot-abdwhmvy2okdrksvdzexa7.streamlit.app/
 
 ---
 
